@@ -7,4 +7,4 @@ To Run the Application, simply add this project into android studio, then Click 
 Note
 -------
 
-**IF YOU FIND ANY SEVERE BUGS PLEASE KINDLY [PULL REQUEST](https://github.com/mrmohim/WarOfWord/pulls).**
+**IF YOU FIND ANY SEVERE BUGS PLEASE KINDLY [PULL REQUEST](https://github.com/mrmohim/Tic-Tac-Toe/pulls).**
