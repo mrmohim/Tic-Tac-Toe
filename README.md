@@ -1,4 +1,4 @@
-# Tic-Tac-Toe---Android
+# Tic-Tac-Toe
 Android Game - Tic Tac Toe
 
 To Run the Application, simply add this project into android studio, then Click on Run
